@@ -3,4 +3,4 @@ Welcome to my random Jupyter notebooks, this is a personal repository of thought
 
 
 ## Notebooks
-- [Replicating some of the Brim ZQ/ZQL Demo](https://nbviewer.jupyter.org/github/brifordwylie/notebooks/blob/master/Replicate_ZQL_Demo.ipynb)
+- [Checking Out Brim](https://nbviewer.jupyter.org/github/brifordwylie/notebooks/blob/master/Checking_Out_Brim.ipynb)
